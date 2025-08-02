@@ -1,0 +1,43 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-inline: 20px;
+}
+.main-title {
+    margin-bottom: 1rem;
+    font-size: 4rem;
+    text-align: center;
+}
+.list-link{
+    font-size: 40px;
+}
+.title{
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 2.5rem;
+}
+.description {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+.recipe-photo {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.ingredients-list {
+    margin-left: 15px;
+    list-style-type: circle;
+}
+.step{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.step-photo {
+    border-radius: 10px;
+}
+.footer-link{
+    font-size: 40px;
+}
